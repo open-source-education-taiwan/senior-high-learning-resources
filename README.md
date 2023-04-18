@@ -1,2 +1,2 @@
 # senior-high-learning-resources
-學測會考學習資源
+高中學測學習資源
